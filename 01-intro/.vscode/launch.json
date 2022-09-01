@@ -41,6 +41,14 @@
         },
         {
             "type": "java",
+            "name": "Launch Hw0Ex4",
+            "request": "launch",
+            "mainClass": "Hw0Ex4",
+            "projectName": "01-intro_948aab30",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
             "name": "Launch LargerDemo",
             "request": "launch",
             "mainClass": "LargerDemo",
