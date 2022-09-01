@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloNumbers",
+            "request": "launch",
+            "mainClass": "HelloNumbers",
+            "projectName": "01-intro_948aab30"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "01-intro_948aab30"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hw0Ex1a",
+            "request": "launch",
+            "mainClass": "Hw0Ex1a",
+            "projectName": "01-intro_948aab30"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hw0Ex2",
+            "request": "launch",
+            "mainClass": "Hw0Ex2",
+            "projectName": "01-intro_948aab30",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargerDemo",
+            "request": "launch",
+            "mainClass": "LargerDemo",
+            "projectName": "01-intro_948aab30"
+        }
+    ]
+}
